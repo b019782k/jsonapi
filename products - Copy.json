@@ -3,28 +3,28 @@
     {
       "id":1,
       "name":"Cat Foods",
-      "price":11 - 59.99,
+      "price":"11 - 59.99",
       "imgUrl": "https://raw.githubusercontent.com/b019782k/images/main/cat.png",
       "description":"We offer a wide range of options to suit the unique needs and preferences of your feline companion. Whether you are looking for dry or wet food, grain-free options, or specific formulas for kittens, adults, or seniors, we have it all."
     },
     {
       "id":2,
       "name":"Dog Foods",
-      "price":17 - 59.99,
+      "price":"17 - 59.99",
       "imgUrl": "https://raw.githubusercontent.com/b019782k/images/main/dog.png",
       "description":"We offer a wide selection of high-quality brands to choose from, so you can find the perfect food for your furry friend. Whether you are looking for dry or wet food, grain-free options, or specific formulas for puppies, seniors, or special dietary needs, we have it all"
     },
     {
       "id":3,
       "name":"Bird Feeds",
-      "price":9.57 - 71.55,
+      "price":"9.57 - 71.55",
       "imgUrl": "https://raw.githubusercontent.com/b019782k/images/main/bird.png",
       "description":"We have a wide variety of options to choose from, so you can find the perfect food for your feathered friends. Whether you have parrots, finches, canaries, or any other type of bird, we have a brand that will meet their nutritional needs.n"
     },
     {
       "id":4,
       "name":"Fish Foods",
-      "price":7.81 - 49.99,
+      "price":"7.81 - 49.99",
       "imgUrl": "https://raw.githubusercontent.com/b019782k/images/main/bird.png",
       "description":"We offer a wide selection of brands to choose from, so you can find the perfect food for your aquatic pets. Whether you have goldfish, tropical fish, koi, or any other type of freshwater or saltwater species, we have a food that will meet their needs."
     },
