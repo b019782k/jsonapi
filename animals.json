@@ -1,0 +1,28 @@
+{
+    "animals":[
+        {
+            "name":"Jasper",
+            "breed":"Dalmatian",
+            "description":" This handsome dalmation is a rescue dog who is currently on display for adoption. While he is typically a friendly and energetic pup with a sleek black and white coat, he can also be quite lazy at times. Despite his rough start in life, he is full of love and eager to find a forever home where he can relax and take it easy. He is a smart dog who loves to go on leisurely walks and play fetch when he's feeling energetic, but he also enjoys lounging around the house and snoozing the day away. If you are looking for a playful and affectionate dog who also enjoys a good nap, Jasper may be the perfect fit! ",
+            "imgUrl":"https://raw.githubusercontent.com/b019782k/images/main/dalres.png"
+        },
+        {
+            "name":"Aspen",
+            "breed":"Norwegian Forest cat",
+            "description":" This adorable Norwegian Forest cat is a rescue who is now ready for adoption. He is a small and cute feline with a fluffy coat of long, thick fur that is typically a deep shade of brown. Despite his cute and fluffy appearance, he has recently gone through a tough time. He was rescued after his owner passed away, and since then he has been feeling sad and lonely. Despite this, he is a friendly and affectionate cat who loves attention and affection from his human caregivers. He is a gentle and sweet-natured feline who would make a wonderful companion for anyone looking for a loyal and loving pet. If you have room in your heart and home for a sad and lonely but cute and small Norwegian Forest cat, Aspen may be the perfect fit!",
+            "imgUrl":"https://raw.githubusercontent.com/b019782k/images/main/catres.png"
+        },
+        {
+            "name":"Diesel",
+            "breed":"Staffordshire Terrier",
+            "description":" He has a goofy and happy personality and loves to play. His thick, brown and white coat is shiny and soft, and he has a muscular build and strong, sturdy legs. Despite his rough start in life, being left alone in the city by his former owner, he is full of joy and loves nothing more than to run and play. He is a loyal and affectionate dog who is always up for a good time and loves to be around his human caregivers. He is a smart and trainable dog who would thrive in a home where he gets plenty of exercise and attention. If you are looking for a big, energetic, goofy, and playful dog to add to your family, this Staffordshire Terrier may be the perfect fit! ",
+            "imgUrl":"https://raw.githubusercontent.com/b019782k/images/main/stufres.png"
+        },
+        {
+            "name":"Kiwi",
+            "breed":"Parakeet",
+            "description":" This charming green parakeet is a rescue parrot who was recently found in the forest. He is a friendly and affectionate bird who loves nothing more than cuddling, kisses, and riding on people's shoulders. He is a chatty and talkative bird who loves to communicate with his human caregivers. His bright green feathers are soft and well-groomed, and he has a curious and playful personality.",
+            "imgUrl":"https://raw.githubusercontent.com/b019782k/images/main/birdres.png"
+        }
+    ]
+}
