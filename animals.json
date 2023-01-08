@@ -7,10 +7,10 @@
             "imgUrl":"https://raw.githubusercontent.com/b019782k/images/main/dalres.png"
         },
         {
-            "name":"Aspen",
-            "breed":"Norwegian Forest cat",
-            "description":"Aspen is a small, fluffy Norwegian Forest cat rescue ready for adoption. He has a deep brown coat of long, thick fur and was rescued after his owner passed away. Aspen is friendly and affectionate and loves attention from his caregivers. He is a gentle and sweet-natured feline who would make a wonderful companion for someone looking for a loyal and loving pet. If you have room in your heart and home for a sad but cute and small Norwegian Forest cat, Aspen may be the perfect fit.",
-            "imgUrl":"https://raw.githubusercontent.com/b019782k/images/main/catres.png"
+            "name":"Boris",
+            "breed":"Siberian Husky",
+            "description":"Boris is a 2-year-old Siberian husky who was recently rescued from the streets of Russia, where he was found alone and starving, with no one to call home. Despite his rough start in life, Boris is a sweet and gentle dog with a friendly personality. He is an energetic and playful breed, and would thrive in a home with a yard where he can run and play. If you have room in your heart and home for a lovable dog like Boris, please consider giving him a second chance at a happy life.",
+            "imgUrl":"https://raw.githubusercontent.com/b019782k/images/main/huskyres.png"
         },
         {
             "name":"Diesel",
@@ -19,10 +19,10 @@
             "imgUrl":"https://raw.githubusercontent.com/b019782k/images/main/stufres.png"
         },
         {
-            "name":"Kiwi",
-            "breed":"Parakeet",
-            "description":" This charming green parakeet is a rescue parrot who was recently found in the forest. He is a friendly and affectionate bird who loves nothing more than cuddling, kisses, and riding on people's shoulders. He is a chatty and talkative bird who loves to communicate with his human caregivers. His bright green feathers are soft and well-groomed, and he has a curious and playful personality.",
-            "imgUrl":"https://raw.githubusercontent.com/b019782k/images/main/birdres.png"
+            "name":"Charlie",
+            "breed":"Golden Retriever",
+            "description":"Meet Charlie, a 3-year-old golden retriever who is looking for a new home. Charlie's previous owner, who was in the military, recently passed away, and Charlie is now being cared for at a dog rescue center. He is a friendly and playful dog who loves to be around people. Charlie is well-behaved and gets along well with other dogs. If you are looking for a loyal and loving companion, Charlie could be the perfect fit for you!",
+            "imgUrl":"https://raw.githubusercontent.com/b019782k/images/main/goldres.png"
         }
     ]
 }
